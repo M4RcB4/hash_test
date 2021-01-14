@@ -1,8 +1,8 @@
-<br>
-<br>
-<br>
-
-# Testing Jumpcloud HashServ
+****************************************************************
+****************************************************************
+# Testing HashServ
+****************************************************************
+****************************************************************
 
 <br>
 
@@ -78,8 +78,5 @@ Everytime the service is shutdown and restarted the job identification numbers r
 
 - stats endpoint will accept request body, but doesn't seem to be effected by it.
 
-+++++++++
-=========
 ...END...
 =========
-+++++++++
